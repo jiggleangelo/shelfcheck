@@ -1,0 +1,5 @@
+Handle,Title,Body (HTML),Type,Variant SKU,Variant Price,Variant Barcode,Image Src,Variant Inventory Qty
+ridge-light,Ridge Light Socks,<p>Lightweight hiking socks.</p>,Socks,RL-S,18.00,,https://northfield.example/images/ridge-light.jpg,12
+ridge-light,,,,RL-M,18.00,,,8
+alpine-warm,Alpine Warm Socks,<p>Warm socks.</p>,,AW-S,,,,
+trail-classic,Trail Classic Socks,<p>These merino hiking socks provide a comfortable fit for long walks and everyday trail use. Reinforced heels and toes support repeated wear while a cushioned sole softens each step. A breathable knit helps manage warmth inside hiking boots and the smooth toe seam reduces rubbing during extended outings.</p>,Socks,TC-M,24.00,00012345678905,https://northfield.example/images/trail-classic.jpg,20

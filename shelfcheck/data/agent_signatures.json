@@ -1,0 +1,11 @@
+{
+  "user_agents": [
+    {"token": "GPTBot", "role": "training", "verified_on": "2026-10-01"},
+    {"token": "OAI-SearchBot", "role": "search", "verified_on": "2026-10-01"},
+    {"token": "ChatGPT-User", "role": "shopping", "verified_on": "2026-10-01"},
+    {"token": "meta-externalagent", "role": "shopping", "verified_on": "2026-10-01"},
+    {"token": "meta-externalfetcher", "role": "shopping", "verified_on": "2026-10-01"},
+    {"token": "Googlebot", "role": "search", "verified_on": "2026-10-01", "traffic_attribution": false}
+  ],
+  "referrers": ["chatgpt.com", "meta.ai", "perplexity.ai"]
+}

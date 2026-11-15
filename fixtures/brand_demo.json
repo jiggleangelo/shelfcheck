@@ -1,0 +1,32 @@
+{
+  "slug": "demo",
+  "category": "outdoor apparel",
+  "price_band": "mid-range",
+  "primary": {
+    "name": "Northfield Socks",
+    "aliases": ["Northfield Socks", "northfield.example"],
+    "domain": "northfield.example"
+  },
+  "competitors": [
+    {
+      "name": "Summit Socks",
+      "aliases": ["Summit Socks", "summit.example"],
+      "domain": "summit.example"
+    },
+    {
+      "name": "Trailworks",
+      "aliases": ["Trailworks", "trailworks.example"],
+      "domain": "trailworks.example"
+    },
+    {
+      "name": "Evergreen",
+      "aliases": ["Evergreen", "evergreen.example"],
+      "domain": "evergreen.example"
+    }
+  ],
+  "surfaces": ["muse", "chatgpt"],
+  "repeats": 5,
+  "max_runs_per_week": 500,
+  "recipient_token": "v_1234567890123456",
+  "demo": true
+}

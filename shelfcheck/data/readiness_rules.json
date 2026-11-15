@@ -1,0 +1,8 @@
+{
+  "settings": [
+    {"id": "agentic_checkout_enrolled", "severity": 3, "fix": "Review agentic/AI checkout channel enrolment and document the decision."},
+    {"id": "default_enrolment_known", "severity": 2, "fix": "Verify whether enrolment was enabled by default in the current Shopify admin."},
+    {"id": "policies_published", "severity": 3, "fix": "Publish shipping and return policies at stable public URLs."},
+    {"id": "meta_catalog_connected", "severity": 2, "fix": "Review the Meta catalog connection and product sync health."}
+  ]
+}
